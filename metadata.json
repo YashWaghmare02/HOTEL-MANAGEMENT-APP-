@@ -1,0 +1,6 @@
+{
+  "name": "LuxeAnalytics",
+  "description": "An executive analytics and operations management platform for high-end hospitality and restaurants. Track revenue, customize orders, monitor kitchen inventory, and analyze fiscal reports in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
